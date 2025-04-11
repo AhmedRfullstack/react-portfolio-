@@ -6,7 +6,6 @@ export const About = () => {
     "Vue",
     "TypeScript",
     "TailwindCSS",
-    "Svelte",
   ];
 
   const backendSkills = ["Node.js", "Python", "AWS", "MongoDB", "GraphQL"];
